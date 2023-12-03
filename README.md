@@ -21,4 +21,4 @@ Linux için :
 
 ##### lisans
 ---------------------------------------------------------------------------------------------
-[https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
