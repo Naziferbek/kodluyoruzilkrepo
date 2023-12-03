@@ -2,11 +2,11 @@
 -------------------------------------------------------------------------------------------
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo![kodluyoruz_logo](https://github.com/Naziferbek/kodluyoruzilkrepo/assets/135960016/3c8b9a51-5fa2-456b-b215-ade7cf6266d5)
 
-## Kurulum
+## kurulum
 -------------------------------------------------------------------------------------------
 git clone https://github.com/Naziferbek/kodluyoruzilkrepo.git
 
-### Kullanım
+### kullanım
 -------------------------------------------------------------------------------------------
 Projeyi klonladıktan sonra Visual Studio Code programını açıyorsunuz.
 Linux için :
@@ -15,10 +15,10 @@ Linux için :
     code .
 ``` 
 
-#### Katkı
+#### katkı
 ---------------------------------------------------------------------------------------------
 Çekme isteği kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açın.
 
-##### Lisans
+##### lisans
 ---------------------------------------------------------------------------------------------
 https://choosealicense.com/licenses/mit/
