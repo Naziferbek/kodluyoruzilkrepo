@@ -13,4 +13,3 @@ Linux için :
 #### Katkı
 Çekme isteği kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açın.
 ##### Lisans
-https://choosealicense.com/licenses/mit/
